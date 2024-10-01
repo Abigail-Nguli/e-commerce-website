@@ -682,7 +682,7 @@ footer .col {
 }
 
 footer .install {
-  margin: 30px auto;
+  margin: 30px auto 45px auto;
 }
 }
 
@@ -754,16 +754,17 @@ footer .install {
     width: 100%;
   }
 
-  footer .install .row img {
-  margin: 10px 0 15px 30px;
-}
-
-footer .col1 {
-  margin: 30px auto;
+  footer .install img {
+  margin: 10px 0 10px 30px;
+  width: 80vh;
 }
 
 footer .install {
   margin: 30px auto;
+}
+
+footer .col {
+  margin-bottom: 30px;
 }
 
 }
