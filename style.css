@@ -547,6 +547,10 @@ footer a:hover {
   color: #088178;
 }
 
+footer .install img {
+  margin-top: 20px;
+}
+
 footer .copyright {
   width: 100%;
   text-align: center;
@@ -750,7 +754,7 @@ footer .follow i {
   width: 125px;
 }
 
-  footer .copyright {
-    text-align: start;
-  }
+footer .install img {
+  margin-top: 20px;
+}
 }
