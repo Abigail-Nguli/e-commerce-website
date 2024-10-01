@@ -746,6 +746,10 @@ footer .follow i {
     width: 100%;
   }
 
+  footer .install .row img {
+  width: 125px;
+}
+
   footer .copyright {
     text-align: start;
   }
