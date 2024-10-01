@@ -751,12 +751,12 @@ footer .follow i {
   }
 
   footer .install .row img {
-  width: 125px;
+  width: 135px;
   margin: 10px 0 15px 30px;
 }
 
 footer .install {
-  margin: 0 auto;
+  margin: 20px auto;
 }
 
 }
