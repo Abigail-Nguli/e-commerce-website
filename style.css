@@ -681,6 +681,10 @@ footer .col {
   margin-bottom: 30px;
 }
 
+footer .col .row {
+  margin-bottom: 15px;
+}
+
 footer .install {
   margin: 30px auto 45px auto;
 }
@@ -754,9 +758,13 @@ footer .install {
     width: 100%;
   }
 
+  footer .install .row img {
+    width: 98px;
+  }
+
   footer .install img {
   margin: 10px 0 10px 30px;
-  width: 80vh;
+  width: 175px;
 }
 
 footer .install {
