@@ -657,6 +657,10 @@ footer .copyright {
     width: 28%;
   }
 
+  #sm-banner .banner-box2 {
+    margin-top: 20px;
+  }
+
   #newsletter .form {
     width: 70%;
   }
@@ -669,16 +673,16 @@ footer .copyright {
   width: 35px;
 }
 
-footer .install .row img {
-  width: 155px;
-}
-
-footer .install img {
-  width: 250px;
-}
-
 footer .follow i {
   font-size: 12px;
+}
+
+footer .col {
+  margin-bottom: 30px;
+}
+
+footer .install {
+  margin: 30px auto;
 }
 }
 
@@ -751,12 +755,15 @@ footer .follow i {
   }
 
   footer .install .row img {
-  width: 155px;
   margin: 10px 0 15px 30px;
 }
 
+footer .col1 {
+  margin: 30px auto;
+}
+
 footer .install {
-  margin: 40px auto;
+  margin: 30px auto;
 }
 
 }
