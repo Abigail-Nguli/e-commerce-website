@@ -658,7 +658,7 @@ footer .copyright {
 
 /*About Page*/
 #page-header.about-header{
-  background-image: url(Images/About\ Us.jpeg);
+  background-image: url(Images/Banner\ 5.jpeg);
   background-position: top 50% right 0;
 }
 
@@ -1092,4 +1092,12 @@ footer .copyright {
     width: 100%;
     margin-bottom: 30px;
   }
+
+  .form-deatils .form input {
+    width: 100%;
+  }
+
+  #form-details .people{
+  margin-top: 25px;
+}
 }
