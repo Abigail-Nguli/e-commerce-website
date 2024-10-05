@@ -1088,7 +1088,7 @@ footer .copyright {
     flex-wrap: wrap;
   }
 
-  #form-details .form {
+ #form-details form{
     width: 100%;
     margin-bottom: 30px;
   }
