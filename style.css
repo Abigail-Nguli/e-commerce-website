@@ -1157,6 +1157,13 @@ footer .copyright {
     margin-bottom: 30px;
   }
 
+  #msg {
+  color: #61b572;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: block;
+}
+
   /*Single Product*/
   #prodetails {
     flex-direction: column;
